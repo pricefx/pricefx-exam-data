@@ -17,4 +17,4 @@ To deploy content of this module to a partition, you need:
 
 3. To deploy the content (screenshots of [goal executions are here](https://pricefx.atlassian.net/wiki/spaces/KB/pages/3807380252/Execute+Goals)), you need to
    * select the Maven Profile, which has connection to your empty partition 
-   * execute the goal _pricefx-deploy-all_ of the _pricefx-stream_ plugin.
+   * in the artifact/module _solution-developer_, locate plugin _pricefx-stream_ and execute the goal _pricefx-deploy-all_.

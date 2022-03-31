@@ -11,8 +11,8 @@
     </parent>
 
     <artifactId>solution-developer</artifactId>
-    <name>Starting configuration and data for Solution Developer exam.</name>
-<!--    <description></description>-->
+<!--    <name>solution-developer</name>-->
+    <description>Starting configuration and data for Solution Developer exam.</description>
     <packaging>pom</packaging>
 
     <build>
