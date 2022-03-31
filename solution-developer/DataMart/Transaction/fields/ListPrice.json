@@ -10,7 +10,6 @@
   "key" : false,
   "label" : "List Price",
   "labelTranslations" : { },
-  "measureType" : "PERUNIT",
   "numeric" : true,
   "owningFC" : "Transaction",
   "partitioningKey" : false,
