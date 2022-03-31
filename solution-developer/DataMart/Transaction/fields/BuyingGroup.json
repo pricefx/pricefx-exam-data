@@ -1,0 +1,23 @@
+{
+  "aggregation" : false,
+  "auxiliary" : false,
+  "calculated" : false,
+  "deleted" : false,
+  "deployed" : true,
+  "dimension" : true,
+  "expression" : "BuyingGroup",
+  "key" : false,
+  "label" : "Buying Group",
+  "labelTranslations" : { },
+  "numeric" : false,
+  "owningFC" : "Customer",
+  "partitioningKey" : false,
+  "persisted" : true,
+  "queryable" : true,
+  "source" : "DMDS.Customer",
+  "sourceField" : "BuyingGroup",
+  "system" : false,
+  "time" : false,
+  "type" : "TEXT",
+  "visibility" : 1
+}

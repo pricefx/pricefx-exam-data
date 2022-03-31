@@ -1,0 +1,10 @@
+{
+  "hideWarnings" : false,
+  "isPlasma" : false,
+  "label" : "Country Markup",
+  "status" : "ACTIVE",
+  "type" : "MATRIX",
+  "uniqueName" : "CountryMarkup",
+  "validAfter" : "2000-01-01",
+  "valueType" : "MATRIX2"
+}

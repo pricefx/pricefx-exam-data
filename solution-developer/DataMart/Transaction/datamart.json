@@ -1,0 +1,21 @@
+{
+  "auxiliary" : false,
+  "baseCcyCode" : "EUR",
+  "baseUomCode" : "EA",
+  "deployed" : true,
+  "fieldNames" : [ "TransactionId", "InvoiceDate", "CustomerId", "ProductId", "Quantity", "Currency", "ListPrice", "InvoicePrice", "Cost", "Label", "BusinessUnit", "ProductGroup", "ProductUnit", "Competition", "ProductClass", "ProductLifeCycle", "Size", "CustomerType", "CustomerGroup", "BuyingGroup", "Region", "Country", "CountryCode", "CustomerClass", "CustomerCurrency", "CustomerInfo", "PaymentTerms", "IncoTerms", "CustomerName", "SalesOrg", "SalesPerson", "Segmentation", "Service", "isDeleted", "lastUpdateDate", "InvoiceDateWeek", "InvoiceDateMonth", "InvoiceDateQuarter", "InvoiceDateYear", "formulaResult", "formulaDetailedResults", "warnings", "alerts", "completeResultsAvailable" ],
+  "fields" : [ "BusinessUnit", "BuyingGroup", "Competition", "Cost", "Country", "CountryCode", "Currency", "CustomerClass", "CustomerCurrency", "CustomerGroup", "CustomerId", "CustomerInfo", "CustomerName", "CustomerType", "IncoTerms", "InvoiceDate", "InvoiceDateMonth", "InvoiceDateQuarter", "InvoiceDateWeek", "InvoiceDateYear", "InvoicePrice", "Label", "ListPrice", "PaymentTerms", "ProductClass", "ProductGroup", "ProductId", "ProductLifeCycle", "ProductUnit", "Quantity", "Region", "SalesOrg", "SalesPerson", "Segmentation", "Service", "Size", "TransactionId", "alerts", "completeResultsAvailable", "formulaDetailedResults", "formulaResult", "isDeleted", "lastUpdateDate", "warnings" ],
+  "isPlasma" : false,
+  "keyFieldNames" : [ "TransactionId" ],
+  "label" : "Transactions",
+  "loadableFields" : [ "TransactionId", "ProductId", "CustomerId", "InvoiceDate", "Currency", "isDeleted", "lastUpdateDate", "formulaResult", "formulaDetailedResults", "warnings", "alerts" ],
+  "localFields" : [ "TransactionId", "ProductId", "CustomerId", "InvoiceDate", "Currency", "isDeleted", "lastUpdateDate", "formulaResult", "formulaDetailedResults", "warnings", "alerts" ],
+  "locked" : false,
+  "normalization" : "HIGH",
+  "queryable" : true,
+  "source" : "DMDS.Transaction",
+  "type" : "DATAMART",
+  "uniqueName" : "Transaction",
+  "valid" : true,
+  "view" : false
+}

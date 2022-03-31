@@ -1,0 +1,22 @@
+{
+  "aggregation" : false,
+  "auxiliary" : false,
+  "calculated" : false,
+  "deleted" : false,
+  "deployed" : true,
+  "dimension" : true,
+  "expression" : "CalDate",
+  "key" : true,
+  "label" : "CalDate",
+  "labelTranslations" : { },
+  "numeric" : false,
+  "owningFC" : "Calendar",
+  "partitioningKey" : false,
+  "persisted" : true,
+  "queryable" : true,
+  "source" : "DMDS.cal",
+  "system" : false,
+  "time" : true,
+  "type" : "DATE",
+  "visibility" : 1
+}

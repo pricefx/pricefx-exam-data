@@ -1,0 +1,11 @@
+{
+  "fieldName" : "key1",
+  "fieldType" : 2,
+  "formatType" : "TEXT",
+  "label" : "CountryCode",
+  "labelTranslations" : {
+    "" : "Country Code"
+  },
+  "readOnly" : false,
+  "requiredField" : true
+}
