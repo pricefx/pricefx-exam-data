@@ -3,7 +3,7 @@
 This module contains initial configuration and sample data, which serve as starting point for the Solution Developer Exam.
 
 The deployment of the configuration to the partition will be done using [_Stream_ Maven plugin](https://pricefx.atlassian.net/wiki/spaces/KB/pages/3806330885/Pricefx+Stream+Maven+Plugin).
-This plugin is already referenced in the _pom.xml_ file of this project, so you do not need to install it or something.
+This plugin is already referenced in the _pom.xml_ file of this project, so you do not need to install it.
 All you need is working Maven, which is included out-of-the-box in IntelliJ.
 
 To deploy content of this module to a partition, you need:
