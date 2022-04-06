@@ -2,5 +2,5 @@
 
 This project contains initial configuration and sample data, which are used as a starting point for exams.
 
-Read the README.md files in the respective sub-modules (sub-folders), e.g. folder 
-* [_solution-developer_](solution-developer/README.md)
+For details about the specific projects, read the _README.md_ files in the respective sub-modules (sub-folders), e.g. folder:
+* [solution-developer / README](solution-developer/README.md)
