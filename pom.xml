@@ -7,7 +7,8 @@
     <groupId>net.pricefx.exam</groupId>
     <artifactId>exam-data</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>Initial Exam Configurations and Data</name>
+<!--    <name>root</name>-->
+    <description>Initial Exam Configurations and Data</description>
     <packaging>pom</packaging>
 
     <modules>

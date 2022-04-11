@@ -1,0 +1,11 @@
+{
+  "entityRefTypeCode" : "C",
+  "fieldName" : "key1",
+  "fieldType" : 8,
+  "label" : "Customer",
+  "labelTranslations" : {
+    "" : "Customer"
+  },
+  "readOnly" : false,
+  "requiredField" : true
+}

@@ -1,0 +1,21 @@
+{
+  "cssProperties" : "",
+  "fieldName" : "key2",
+  "fieldType" : 2,
+  "fieldValueOptions" : {
+    "ValuesRestrictedByDSConfig" : true,
+    "criteriaJson" : null,
+    "dataSourceLabel" : "Products",
+    "fetchUrl" : "productmanager.fetchformulafilteredproducts/",
+    "fieldLabel" : "ProductGroup",
+    "fieldName" : "attribute1",
+    "metaTypeCode" : "PAM"
+  },
+  "formatType" : "TEXT",
+  "label" : "ProductGroup",
+  "labelTranslations" : {
+    "" : "ProductGroup"
+  },
+  "readOnly" : false,
+  "requiredField" : true
+}
