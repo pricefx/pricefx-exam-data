@@ -1,0 +1,10 @@
+{
+  "fieldName" : "name",
+  "fieldType" : 2,
+  "label" : "ProductAttribute",
+  "labelTranslations" : {
+    "" : "ProductAttribute"
+  },
+  "readOnly" : false,
+  "requiredField" : false
+}
