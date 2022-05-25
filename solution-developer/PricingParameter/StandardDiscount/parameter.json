@@ -1,0 +1,11 @@
+{
+  "folder" : "Chemicals",
+  "hideWarnings" : false,
+  "isPlasma" : false,
+  "label" : "Standard Discount",
+  "status" : "ACTIVE",
+  "type" : "MATRIX",
+  "uniqueName" : "StandardDiscount",
+  "validAfter" : "2010-01-01",
+  "valueType" : "MATRIX3"
+}
