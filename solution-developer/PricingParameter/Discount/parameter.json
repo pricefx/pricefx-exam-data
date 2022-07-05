@@ -1,6 +1,7 @@
 {
   "hideWarnings" : false,
   "isPlasma" : false,
+  "label" : "Promotional Discount",
   "status" : "ACTIVE",
   "type" : "MATRIX",
   "uniqueName" : "Discount",
